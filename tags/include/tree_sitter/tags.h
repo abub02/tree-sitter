@@ -1,4 +1,4 @@
-#ifndef TREE_SITTER_TAGS_H_
+ #ifndef TREE_SITTER_TAGS_H_
 #define TREE_SITTER_TAGS_H_
 
 #ifdef __cplusplus
